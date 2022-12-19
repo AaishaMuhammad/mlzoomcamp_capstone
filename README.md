@@ -158,7 +158,7 @@ Due to the fact that training and tuning the models needs GPU augmentation for b
         ---sample_submission.csv
 
         ---test.csv
-        
+
         ---train.csv
     
     This data structure has to be the same in order for the Python scripts and notebooks to run properly. 
@@ -190,7 +190,7 @@ This part may take some time to run. After it has finished,
     docker run -it --rm -p 8080:8080 kitchenware_model 
     ```
 
-Congratulations! The toxicity predictor model is now up and running on your local system.
+Congratulations! The model is now up and running on your local system.
 
 ## Testing Model
 
