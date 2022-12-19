@@ -152,9 +152,13 @@ Due to the fact that training and tuning the models needs GPU augmentation for b
     The Kaggle API downloads the data as a zipped folder. Extract all the files and save them into the 'data' folder. The final folder tree should be as such: 
 
     ---data
+
         ---images
+
         ---sample_submission.csv
+
         ---test.csv
+        
         ---train.csv
     
     This data structure has to be the same in order for the Python scripts and notebooks to run properly. 
