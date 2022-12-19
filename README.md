@@ -21,7 +21,7 @@ The data can be downloaded from the [Kaggle page](https://www.kaggle.com/competi
 
 ## Proof of Cloud Deploy
 
-Just in case the cloud deploy is not live for any reason, the `proof` folder contains screenshots and a video recording of the testing script querying the cloud-hosted model with different images and the model returning predictions. 
+Just in case the cloud deploy is not live for any reason, the `proof` folder contains screenshots of the testing script querying the cloud-hosted model with different images and the model returning predictions. 
 
 
 ## Files & Folders
