@@ -322,7 +322,7 @@ Now that we have pushed the Docker image onto Artifact Registry, it is available
     Navigate to `query.py`. Remove the URL in the cloud deploy variable and paste your deploy's link in place. Save the file and run,
 
     ```
-    python request.py `image-url-here`
+    python query.py `image-url-here`
     ```
 
     The script will now query your cloud deploy of the model. 
